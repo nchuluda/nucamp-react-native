@@ -58,7 +58,7 @@ class Main extends Component {
                 flex: 1,
                 paddingTop: Platform.OS === 'ios' ? 0 : Expo.Constants.statusBarHeight
                 }}>
-                <DirectoryNavigator />
+                <MainNavigator />
             </View>
         );
     }

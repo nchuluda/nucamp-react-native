@@ -14,7 +14,7 @@ class Contact extends Component {
         MailComposer.composeAsync({
             recipients: ['campsites@nucamp.co'],
             subject: 'Inquiry',
-            body: 'To whome it may concern:'
+            body: 'To whom it may concern:'
         });
     }
 

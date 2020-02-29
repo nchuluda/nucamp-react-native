@@ -981,6 +981,11 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
+"@react-native-community/cameraroll@^1.4.1":
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/@react-native-community/cameraroll/-/cameraroll-1.4.1.tgz#e2891306243cf6a93556d4876ab99c38d497ab68"
+  integrity sha512-ZwXGPuG72u3sq7DF2uRtvT8jMbGKKfFntd3VQGkD1zL6riMQeyuGJZ/O6YBeppopEq+pMlf/j9xH1cWNjNkYLg==
+
 "@react-native-community/cli-debugger-ui@^3.0.0":
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/@react-native-community/cli-debugger-ui/-/cli-debugger-ui-3.0.0.tgz#d01d08d1e5ddc1633d82c7d84d48fff07bd39416"
@@ -2234,6 +2239,11 @@ expo-font@~8.0.0:
   dependencies:
     fontfaceobserver "^2.1.0"
 
+expo-image-manipulator@7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/expo-image-manipulator/-/expo-image-manipulator-7.0.0.tgz#2306213b30e306e87ddb02f15e35c4f1f4d36a12"
+  integrity sha512-N6DV6QQ4fwppRgntXTk2zydyuSBkpkJCbU/VWohhhP26Pp2Z6ay0OfXz08OdQN2UEStAisx+W1St7cWqwq7tjA==
+
 expo-image-picker@7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/expo-image-picker/-/expo-image-picker-7.0.0.tgz#e4a5a52bd6f9655f75ecf3cc866aa9bb0c99e24b"
@@ -2262,6 +2272,11 @@ expo-mail-composer@7.0.0:
   integrity sha512-XIfQLW61AIuxoJ2RNVmSPhE0dt68LUh2mLQ5sg6GD2Ve5aLAKvc/rRZP0nGQpti7jPS4/Ft9KyWt4e1lhkhEpA==
   dependencies:
     query-string "^6.2.0"
+
+expo-media-library@~8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/expo-media-library/-/expo-media-library-8.0.0.tgz#d763a2f39a81348d357171be5ea486679c2edb86"
+  integrity sha512-7TIcJjmQq+sH3deIVjwyQYa3nVsLZZUj6fQYA3R+DrFNRT6ehmd1Lai0klTa7ma3pflPEC4Uv2zOyf53alvD2w==
 
 expo-permissions@~8.0.0:
   version "8.0.0"
